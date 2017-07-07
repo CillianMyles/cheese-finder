@@ -78,5 +78,4 @@ public abstract class BaseSearchActivity extends AppCompatActivity {
             mAdapter.setCheeses(result);
         }
     }
-
 }
